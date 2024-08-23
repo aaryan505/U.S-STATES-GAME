@@ -48,4 +48,4 @@ U.S. States Game/
 Contributions are welcome! If you'd like to improve the game, feel free to fork the repository, make your changes, and submit a pull request.
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+https://github.com/aaryan505/U.S-STATES-GAME/blob/main/LICENSE
